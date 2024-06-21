@@ -17,7 +17,7 @@ public class CalculatorParametersTest {
         List<Object[]> objects =new ArrayList<Object[]>();
         objects.add(new Object[]{5,3,8});
         objects.add(new Object[]{4,8,12});
-        objects.add(new Object[]{6,4,7});
+        objects.add(new Object[]{6,4,10});
         objects.add(new Object[]{9,2,11});
         return objects;
     }
